@@ -1,4 +1,13 @@
 {
+    "limenius/react-bundle": {
+        "version": "v5.0.3"
+    },
+    "limenius/react-renderer": {
+        "version": "v5.0.2"
+    },
+    "nacmartin/phpexecjs": {
+        "version": "v3.0.0"
+    },
     "php": {
         "version": "7.3"
     },
@@ -110,6 +119,9 @@
     "symfony/polyfill-php73": {
         "version": "v1.13.1"
     },
+    "symfony/process": {
+        "version": "v5.0.2"
+    },
     "symfony/routing": {
         "version": "4.2",
         "recipe": {
@@ -154,5 +166,8 @@
     },
     "symfony/yaml": {
         "version": "v5.0.2"
+    },
+    "twig/twig": {
+        "version": "v3.0.1"
     }
 }
