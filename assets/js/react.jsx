@@ -1,6 +1,12 @@
 import React from 'react';
-import RenderDom from 'react-dom'
 
-function React () {
-
+function AwesomeSauce () {
+    return (
+        <div>
+            <h1>I really love react</h1>
+        </div>
+    )
 }
+
+React.render(<AwesomeSauce />, document.getElementById('react'));
+
